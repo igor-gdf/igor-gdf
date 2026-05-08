@@ -8,7 +8,7 @@
 
 - **Desenvolvedor Web Full Stack** focado em aplicações modernas e escaláveis.
 - Atualmente na **Simples Meios de Pagamento**.
-- Experiência com **JavaScript (React, Next.js, Node.js)**, **PHP (CakePHP)** e **Python**.
+- Experiência com **JavaScript (React, Next.js, Node.js)**, **PHP (CakePHP)** e **Python (Flask)**.
 - Uso de **Docker** para padronização de ambientes.
 - Graduando em TI pela **UFRN (IMD)** e Técnico em Informática pelo **IFRN**.
 - Natal, RN - Brasil.
